@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Whatsapp-copia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd1f1e476b3cd9c4daaf04d6e10ca783922285b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20d54c59fcb43b535d6c401612832667220910c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Whatsapp-copia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Whatsapp-copia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
