@@ -1,0 +1,15 @@
+C:\Users\david\Whatsapp-like\bin\Debug\net8.0\Whatsapp-copia.exe
+C:\Users\david\Whatsapp-like\bin\Debug\net8.0\Whatsapp-copia.deps.json
+C:\Users\david\Whatsapp-like\bin\Debug\net8.0\Whatsapp-copia.runtimeconfig.json
+C:\Users\david\Whatsapp-like\bin\Debug\net8.0\Whatsapp-copia.dll
+C:\Users\david\Whatsapp-like\bin\Debug\net8.0\Whatsapp-copia.pdb
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.AssemblyInfoInputs.cache
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.AssemblyInfo.cs
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.csproj.CoreCompileInputs.cache
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.sourcelink.json
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.dll
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\refint\Whatsapp-copia.dll
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.pdb
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\Whatsapp-copia.genruntimeconfig.cache
+C:\Users\david\Whatsapp-like\obj\Debug\net8.0\ref\Whatsapp-copia.dll
